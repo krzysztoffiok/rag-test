@@ -1,0 +1,5 @@
+.venv
+*__pycache*
+data
+my_secrets.py
+document*

@@ -1,0 +1,6 @@
+haystack-ai
+sentence-transformers
+litellm
+torch
+notebook
+ipywidgets

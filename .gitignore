@@ -1,5 +1,5 @@
 .venv
 *__pycache*
-data
+data/*.txt
 my_secrets.py
 document*
